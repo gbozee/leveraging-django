@@ -13,12 +13,10 @@ The beautiful thing is, since django comes with some batteries included, some of
 
 I would be making a list of some of these task and providing simple solutions that are easy to follow to them.
 
-1. Ability to Login with Email.
+1. [Ability to Login with Email.](docs/login-with-email.md) *project-name: email_login*
 2. Ability to Login with either Email or Username
 3. Easily setting up Social Authentication (Facebook and Google)
 4. Ability to Signup without having to set username.
 
 I would be creating a sample django project that implements some of these ideas as they are listed.
 
-### Login with Email
-Django by default, comes with a `User` model that has the following fields `username, first_name, last_name, email, password`
